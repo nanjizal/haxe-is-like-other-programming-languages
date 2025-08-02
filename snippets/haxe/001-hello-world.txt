@@ -1,3 +1,7 @@
+function main(){
+    trace("Hello, world!");
+}
+// More usual approach, although longer it is less confusing for newer users as it is closer to haxe normal use. 
 class Main {
     public static function main() {
         trace("Hello, world!");
